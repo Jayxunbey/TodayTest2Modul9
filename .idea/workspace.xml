@@ -5,20 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="929ca5a1-03ce-4b16-ba1c-b4b6d0765156" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JJunitTestingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/calculater/CalculaterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/calculater/CalculaterAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/css/coverage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/css/idea.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/img/arrowDown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/img/arrowUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/js/highlight.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/js/highlightjs-line-numbers.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlReport/ns-1/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/calculater/filedata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/calculater/CalculaterAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculater/CalculaterAppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="F:\PdpAcademy\modul9\Testing Lesson Modul 9\htmlReport" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,39 +63,54 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2fOc65Cz6iaqI1jVAGx0w87vZsr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.JJunitTestingApp.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculateTest.addingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculateTest.checkCalculateFormula.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculateTest.dividingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculateTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculaterAppTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculaterAppTest.liboyTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/PdpAcademy/modul9/Testing Lesson Modul 9/src/main/resources/template/html&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.JJunitTestingApp.executor": "Run",
+    "JUnit.CalculateTest.addingTest.executor": "Run",
+    "JUnit.CalculateTest.checkCalculateFormula.executor": "Run",
+    "JUnit.CalculateTest.dividingTest.executor": "Run",
+    "JUnit.CalculateTest.executor": "Run",
+    "JUnit.CalculaterAppTest.executor": "Run",
+    "JUnit.CalculaterAppTest.liboyTest.executor": "Run",
+    "JUnit.CalculaterAppTest.sum3 (1).executor": "Run",
+    "JUnit.CalculaterAppTest.sum3.executor": "Run",
+    "JUnit.CalculaterAppTest.sum4.executor": "Run",
+    "Maven.TestingLessonModul9 [org.apache.maven.plugins:maven-site-plugin:3.12.1:run].executor": "Run",
+    "Maven.TestingLessonModul9 [org.apache.maven.plugins:maven-site-plugin:3.12.1:site].executor": "Run",
+    "Maven.TestingLessonModul9 [org.apache.maven.plugins:maven-surefire-report-plugin:3.2.5:report].executor": "Run",
+    "Maven.TestingLessonModul9 [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/PdpAcademy/modul9/Testing Lesson Modul 9/src/main/resources/template/html",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PdpAcademy\modul9\Testing Lesson Modul 9\src\main\resources\template\html" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PdpAcademy\modul9\Testing Lesson Modul 9\src\main\resources\calculater" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="calculater" />
@@ -77,37 +120,6 @@
     <configuration name="JJunitTestingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JJunitTestingApp" />
       <module name="TestingLessonModul9" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestingLessonModul9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="calculater" />
-      <option name="MAIN_CLASS_NAME" value="calculater.CalculateTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculateTest.checkCalculateFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestingLessonModul9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="calculater" />
-      <option name="MAIN_CLASS_NAME" value="calculater.CalculateTest" />
-      <option name="METHOD_NAME" value="checkCalculateFormula" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,7 +139,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculaterAppTest.liboyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculaterAppTest.sum3 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestingLessonModul9" />
       <extension name="coverage">
         <pattern>
@@ -137,7 +149,39 @@
       </extension>
       <option name="PACKAGE_NAME" value="calculater" />
       <option name="MAIN_CLASS_NAME" value="calculater.CalculaterAppTest" />
-      <option name="METHOD_NAME" value="liboyTest" />
+      <option name="METHOD_NAME" value="sum3(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculaterAppTest.sum3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingLessonModul9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculater" />
+      <option name="MAIN_CLASS_NAME" value="calculater.CalculaterAppTest" />
+      <option name="METHOD_NAME" value="sum3(calculater.CalculaterApp$TestArguments)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculaterAppTest.sum4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingLessonModul9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculater" />
+      <option name="MAIN_CLASS_NAME" value="calculater.CalculaterAppTest" />
+      <option name="METHOD_NAME" value="sum4(int,int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,10 +190,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CalculaterAppTest" />
+        <item itemvalue="JUnit.CalculaterAppTest.sum4" />
+        <item itemvalue="JUnit.CalculaterAppTest.sum3 (1)" />
+        <item itemvalue="JUnit.CalculaterAppTest.sum3" />
         <item itemvalue="Application.JJunitTestingApp" />
-        <item itemvalue="JUnit.CalculaterAppTest.liboyTest" />
-        <item itemvalue="JUnit.CalculateTest" />
-        <item itemvalue="JUnit.CalculateTest.checkCalculateFormula" />
       </list>
     </recent_temporary>
   </component>
@@ -172,11 +216,19 @@
       <workItem from="1713675390925" duration="10449000" />
       <workItem from="1713713460577" duration="31000" />
       <workItem from="1713731347650" duration="11056000" />
-      <workItem from="1713781307230" duration="468000" />
+      <workItem from="1713781307230" duration="7853000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Testing_Lesson_Modul_9$CalculaterAppTest.ic" NAME="CalculaterAppTest Coverage Results" MODIFIED="1713784469887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>calculater.*</FILTER>
+    </SUITE>
   </component>
 </project>
